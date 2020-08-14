@@ -1,1 +1,1 @@
-web: gunicorn python-budgeting-app.wsgi
+web: gunicorn config.wsgi
